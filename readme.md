@@ -2,7 +2,7 @@
 SDK for creating themes of Dixie CMS
 
 [![Author](https://img.shields.io/badge/author-9r3i-lightgrey.svg)](https://github.com/9r3i)
-[![License](https://img.shields.io/github/license/9r3i/dixie-theme-sdk.svg)](https://github.com/9r3i/dixie-theme-sdk/blob/master/license.txt)
+[![License](https://img.shields.io/github/license/9r3i/dixie.svg)](https://github.com/9r3i/dixie-theme-sdk/blob/master/license.txt)
 [![Forks](https://img.shields.io/github/forks/9r3i/dixie-theme-sdk.svg)](https://github.com/9r3i/dixie-theme-sdk/network)
 [![Stars](https://img.shields.io/github/stars/9r3i/dixie-theme-sdk.svg)](https://github.com/9r3i/dixie-theme-sdk/stargazers)
 [![Issues](https://img.shields.io/github/issues/9r3i/dixie-theme-sdk.svg)](https://github.com/9r3i/dixie-theme-sdk/issues)
